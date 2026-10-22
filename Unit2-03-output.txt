@@ -1,0 +1,8 @@
+55
+Error: No integers were found on this line.
+-1
+30
+0
+Error: Hello, World! is not a number.
+Error: Bob is not a number
+64
